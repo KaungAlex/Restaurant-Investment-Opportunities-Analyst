@@ -27,9 +27,15 @@ The dashboard enables stakeholders to make informed decisions regarding restaura
 
 ## 📊 Dashboard Overview
 
-![Restaurant Investment Opportunities](PBI/RestaurantInvestment.png)
+![Restaurant Investment Opportunities](PBI/Restaurant.png)
 
 ---
+
+
+## 🚀 Live Dashboard
+
+🔗 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZjZlNDg2MTQtMWVmZS00YjAyLWE3ZmQtYjYwYmNlMDY2NTJkIiwidCI6ImYxMTY2ZjJiLTFkOTctNDBmMy1hODM0LTAzZWUxOGNmN2NiOSIsImMiOjEwfQ%3D%3D)
+
 
 ## 🔍 Executive Summary
 
